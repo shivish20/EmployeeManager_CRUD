@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="71075432-1d6c-4aa7-b9eb-b56e21d6d7b7" name="employeemanager" url="jdbc:mysql://localhost/employeemanager?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="577fd4d9-2c55-4ea5-97fd-bc41d6c14b74" name="employeemanager1" url="jdbc:mysql://localhost:3306/employeemanager" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="00c6d788-2bd9-4301-b86e-d5ed1a41450c" name="psql_employeemanager" url="jdbc:postgresql://localhost:5432/employeemanager" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
